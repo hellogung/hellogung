@@ -42,24 +42,24 @@ S1 Teknik Informatika
 ---
 
 ### Freelance Developer
-*Tahun Mulai - Sekarang*  
-- Mengerjakan berbagai project web (company profile, dashboard, SaaS)  
-- Membuat API dan sistem autentikasi berbasis JWT  
+2022 - 2022  
+- Mengerjakan berbagai project web (company profile, dashboard, pos)  
+- Membuat API dan sistem autentikasi menggunakan Laravel
 - Deploy aplikasi ke VPS / cloud  
 
 ---
 
 ## 📜 Certificate
-- Meta Front-End Developer — Coursera (2024)  
+- [Meta Front-End Developer — Coursera (2024)](https://www.coursera.org/account/accomplishments/professional-cert/DNGLAH7P5KXZ))
 - Junior Web Programming — Kominfo (2020)  
-- EF SET English Certificate 51/100 (B2 Upper Intermediate) — EF SET (2024)  
+- [EF SET English Certificate 51/100 (B2 Upper Intermediate) — EF SET (2025)](https://cert.efset.org/en/hPNUpd)  
 
 ---
 
 ## 🚀 Project
 ### Epaud
 Projek pribadi untuk mendigitalisasi administrasi dari paud. Menggunakan hono+bun dan react untuk memudahkan kepala sekolah, guru, dan orang tua dalam memonitor murid dalam perkembangan belajarnya.  
-🔗 [https://link-project.com](https://epaud.growww.site/login)  
+🔗 [https://epaud.growww.site](https://epaud.growww.site/login)  
 
 ---
 
