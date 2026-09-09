@@ -15,7 +15,7 @@ Saya adalah Software Engineer yang berfokus pada pengembangan aplikasi web moder
 
 ## 🛠️ Tech Stack
 - **Frontend**: React, TypeScript, Tailwind CSS  
-- **Backend**: Bun, Hono, Node.js, .NET, C#  
+- **Backend**: Bun, Hono, Node.js, FastAPI, .NET, C#  
 - **Database**: PostgreSQL  
 - **Cache**: Redis  
 - **Tools**: Git, Docker, Kafka, Cloudflare, VPS
